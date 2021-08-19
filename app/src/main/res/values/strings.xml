@@ -4,4 +4,18 @@
     <string name="telefone">Telefone</string>
     <string name="nome_completo">Nome Completo</string>
     <string name="ex_12_93456_7890">EX: 12-93456-7890</string>
+    <string name="ingressar_na_lista_de_e_mails">Ingressar na lista de e-mails?</string>
+    <string name="sexo">Sexo</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="cidade">Cidade</string>
+    <string name="UF">UF</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string-array name="estados">
+        <item>SP</item>
+        <item>RJ</item>
+        <item>ES</item>
+        <item>MG</item>
+    </string-array>
 </resources>
